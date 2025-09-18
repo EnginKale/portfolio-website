@@ -2,6 +2,10 @@
 
 Modern ve responsive tasarıma sahip portfolio websitesi. React, Tailwind CSS ve modern web teknolojileri kullanılarak geliştirilmiştir.
 
+# Ön İzleme
+
+https://enginkale.github.io/portfolio-website
+
 ## 🚀 Özellikler
 
 - **Modern Tasarım**: Gradient arka planlar, animasyonlar ve responsive tasarım
