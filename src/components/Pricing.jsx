@@ -208,7 +208,7 @@ const Pricing = () => {
                   </Link>
                 ) : (
                   <a 
-                    href="mailto:engin@enginkale.com?subject=Enterprise Plan İletişim&body=Merhaba, Enterprise plan hakkında bilgi almak istiyorum."
+                    href="mailto:contact@example.com?subject=Enterprise Plan İletişim&body=Merhaba, Enterprise plan hakkında bilgi almak istiyorum."
                     className={`w-full ${plan.buttonStyle} inline-block text-center`}
                   >
                     {plan.buttonText}

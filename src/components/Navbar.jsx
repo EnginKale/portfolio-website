@@ -14,9 +14,9 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-to-r from-primary-600 to-primary-700 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">EK</span>
+              <span className="text-white font-bold text-sm">PW</span>
             </div>
-            <span className="text-xl font-bold text-gray-900">Engin Kale</span>
+            <span className="text-xl font-bold text-gray-900">Portfolio Website</span>
           </Link>
 
           {/* Desktop Navigation */}

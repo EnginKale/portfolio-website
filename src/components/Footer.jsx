@@ -13,9 +13,9 @@ const Footer = () => {
             <div className="lg:col-span-1">
               <div className="flex items-center space-x-2 mb-6">
                 <div className="w-8 h-8 bg-gradient-to-r from-primary-600 to-primary-700 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">EK</span>
+                  <span className="text-white font-bold text-sm">PW</span>
                 </div>
-                <span className="text-xl font-bold">Engin Kale</span>
+                <span className="text-xl font-bold">Portfolio Website</span>
               </div>
               
               <p className="text-gray-300 mb-6 leading-relaxed">
@@ -147,7 +147,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">
               <p className="text-gray-400 text-sm">
-                © 2024 Engin Kale. Tüm hakları saklıdır.
+                © 2024 Portfolio Website. Tüm hakları saklıdır.
               </p>
               <div className="flex items-center space-x-1 text-gray-400 text-sm">
                 <span>Made with</span>
